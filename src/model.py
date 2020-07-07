@@ -1,5 +1,4 @@
 import tensorflow as tf
-import utils as ut
 import numpy as np
 import pickle
 from mylayer import *
